@@ -1,0 +1,59 @@
+﻿@using ChildrenDatabase.Application.ChildrenDatabase
+@using ChildrenDatabase.Application.ChildrenDatabase.Commands.CreateChildrenDatabase
+
+@model CreateChildrenDatabaseCommand  
+
+ <h1>Add new child</h1>
+ 
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form action="/ChildrenDatabase/Create" method="post">
+            <div class="form-group mb-3">
+                <label class="control-label" asp-for="Name">Name</label>
+                <input class="form-control" type="text" asp-for="Name"></input>
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label class="control-label" asp-for="Surname">Surname</label>
+                <input class="form-control" type="text" asp-for="Surname"></input>
+                <span asp-validation-for="Surname" class="text-danger"></span>
+
+            </div>
+            <div class="form-group mb-3">
+                <label class="control-label" asp-for="Age">Age</label>
+                <input class="form-control" type="text" asp-for="Age"></input>
+            </div>
+            <div class="form-group mb-3">
+                <label class="control-label" asp-for="Address">Address</label>
+                <input class="form-control" type="text" asp-for="Address"></input>
+            </div>
+            <div class="form-group mb-3">
+                <label class="control-label" asp-for="ParentPhoneNumber">Parent phone number</label>
+                <input class="form-control" type="text" asp-for="ParentPhoneNumber"></input>
+                <span asp-validation-for="ParentPhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label class="control-label" asp-for="DateOfBirth">Date of birth</label>
+                <input class="form-control" type="text" asp-for="DateOfBirth"></input>
+            </div>
+            <div class="form-group mb-3">
+                <label class="control-label" asp-for="HealthInfo">Health Info</label>
+                <input class="form-control" type="text"  asp-for="HealthInfo"></input>
+            </div>
+
+            <div class="form-group mb-3 ">
+                <input type="submit" value="Create" class="btn btn-primary">
+            </div>
+                       
+        </form>
+    </div>
+</div>
+
+
+@section Scripts  {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

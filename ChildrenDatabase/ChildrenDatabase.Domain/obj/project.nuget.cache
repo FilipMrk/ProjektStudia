@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eYg6cXDgatTVpNhCeqVxMAcghsMtMS2qRcZyA0+G8N0MCIayhgveL1q2h7odYb0/migVAbNBImctaGlhGFXM3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.Domain\\ChildrenDatabase.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\bin\Debug\net8.0\ChildrenDatabase.Application.deps.json
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\bin\Debug\net8.0\ChildrenDatabase.Application.dll
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\bin\Debug\net8.0\ChildrenDatabase.Application.pdb
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\bin\Debug\net8.0\ChildrenDatabase.Domain.dll
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\bin\Debug\net8.0\ChildrenDatabase.Domain.pdb
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\obj\Debug\net8.0\ChildrenDatabase.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\obj\Debug\net8.0\ChildrenDatabase.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\obj\Debug\net8.0\ChildrenDatabase.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\obj\Debug\net8.0\ChildrenDatabase.Application.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\obj\Debug\net8.0\ChildrenDatabase.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\obj\Debug\net8.0\Children.7497B347.Up2Date
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\obj\Debug\net8.0\ChildrenDatabase.Application.dll
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\obj\Debug\net8.0\refint\ChildrenDatabase.Application.dll
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\obj\Debug\net8.0\ChildrenDatabase.Application.pdb
+C:\Users\DELL\OneDrive\Dokumenty\GitHub\ChildrenDatabase\ChildrenDatabase.Application\obj\Debug\net8.0\ref\ChildrenDatabase.Application.dll

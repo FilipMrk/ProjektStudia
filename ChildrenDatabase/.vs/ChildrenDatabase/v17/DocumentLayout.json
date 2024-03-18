@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\controllers\\childrendatabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\controllers\\childrendatabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\views\\childrendatabase\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\views\\childrendatabase\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\views\\childrendatabase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\views\\childrendatabase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{664EC007-F3C9-4D18-9087-92942FD3E6FA}|ChildrenDatabase.MVC\\ChildrenDatabase.MVC.csproj|solutionrelative:childrendatabase.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF980A-600A-46C4-BBC6-CD7D1C314310}|ChildrenDatabase.Application\\ChildrenDatabase.Application.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.application\\extensions\\servicecollectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EF980A-600A-46C4-BBC6-CD7D1C314310}|ChildrenDatabase.Application\\ChildrenDatabase.Application.csproj|solutionrelative:childrendatabase.application\\extensions\\servicecollectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF980A-600A-46C4-BBC6-CD7D1C314310}|ChildrenDatabase.Application\\ChildrenDatabase.Application.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.application\\childrendatabase\\commands\\createchildrendatabase\\childrendatabasecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EF980A-600A-46C4-BBC6-CD7D1C314310}|ChildrenDatabase.Application\\ChildrenDatabase.Application.csproj|solutionrelative:childrendatabase.application\\childrendatabase\\commands\\createchildrendatabase\\childrendatabasecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF980A-600A-46C4-BBC6-CD7D1C314310}|ChildrenDatabase.Application\\ChildrenDatabase.Application.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.application\\childrendatabase\\queries\\getallchildrendatabases\\getallchildrendatabasesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EF980A-600A-46C4-BBC6-CD7D1C314310}|ChildrenDatabase.Application\\ChildrenDatabase.Application.csproj|solutionrelative:childrendatabase.application\\childrendatabase\\queries\\getallchildrendatabases\\getallchildrendatabasesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF980A-600A-46C4-BBC6-CD7D1C314310}|ChildrenDatabase.Application\\ChildrenDatabase.Application.csproj|c:\\users\\dell\\onedrive\\dokumenty\\github\\childrendatabase\\childrendatabase.application\\childrendatabase\\queries\\getallchildrendatabases\\getallchildrendatabasesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EF980A-600A-46C4-BBC6-CD7D1C314310}|ChildrenDatabase.Application\\ChildrenDatabase.Application.csproj|solutionrelative:childrendatabase.application\\childrendatabase\\queries\\getallchildrendatabases\\getallchildrendatabasesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:18:28.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Models\\Child.cs",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Models\\Child.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Models\\Child.cs",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Models\\Child.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:18:01.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T10:10:14.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\appsettings.json",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T10:10:05.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T10:07:55.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T10:04:13.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChildrenDatabaseController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Controllers\\ChildrenDatabaseController.cs",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Controllers\\ChildrenDatabaseController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Controllers\\ChildrenDatabaseController.cs",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Controllers\\ChildrenDatabaseController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:47:07.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:18:06.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Models\\About.cs",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Models\\About.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Models\\About.cs",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Models\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:17:39.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T10:04:18.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T10:04:15.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\ChildrenDatabase\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Views\\ChildrenDatabase\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\ChildrenDatabase\\Index.cshtml",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Views\\ChildrenDatabase\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T10:03:43.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\ChildrenDatabase\\Create.cshtml",
+              "RelativeDocumentMoniker": "ChildrenDatabase.MVC\\Views\\ChildrenDatabase\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.MVC\\Views\\ChildrenDatabase\\Create.cshtml",
+              "RelativeToolTip": "ChildrenDatabase.MVC\\Views\\ChildrenDatabase\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T09:53:41.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceCollectionsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.Application\\Extensions\\ServiceCollectionsExtensions.cs",
+              "RelativeDocumentMoniker": "ChildrenDatabase.Application\\Extensions\\ServiceCollectionsExtensions.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.Application\\Extensions\\ServiceCollectionsExtensions.cs",
+              "RelativeToolTip": "ChildrenDatabase.Application\\Extensions\\ServiceCollectionsExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:36:37.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChildrenDatabaseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.Application\\ChildrenDatabase\\Commands\\CreateChildrenDatabase\\ChildrenDatabaseCommandHandler.cs",
+              "RelativeDocumentMoniker": "ChildrenDatabase.Application\\ChildrenDatabase\\Commands\\CreateChildrenDatabase\\ChildrenDatabaseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.Application\\ChildrenDatabase\\Commands\\CreateChildrenDatabase\\ChildrenDatabaseCommandHandler.cs",
+              "RelativeToolTip": "ChildrenDatabase.Application\\ChildrenDatabase\\Commands\\CreateChildrenDatabase\\ChildrenDatabaseCommandHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBUAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:33:35.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllChildrenDatabasesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.Application\\ChildrenDatabase\\Queries\\GetAllChildrenDatabases\\GetAllChildrenDatabasesQueryHandler.cs",
+              "RelativeDocumentMoniker": "ChildrenDatabase.Application\\ChildrenDatabase\\Queries\\GetAllChildrenDatabases\\GetAllChildrenDatabasesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.Application\\ChildrenDatabase\\Queries\\GetAllChildrenDatabases\\GetAllChildrenDatabasesQueryHandler.cs",
+              "RelativeToolTip": "ChildrenDatabase.Application\\ChildrenDatabase\\Queries\\GetAllChildrenDatabases\\GetAllChildrenDatabasesQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:24:18.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAllChildrenDatabasesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.Application\\ChildrenDatabase\\Queries\\GetAllChildrenDatabases\\GetAllChildrenDatabasesQuery.cs",
+              "RelativeDocumentMoniker": "ChildrenDatabase.Application\\ChildrenDatabase\\Queries\\GetAllChildrenDatabases\\GetAllChildrenDatabasesQuery.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Dokumenty\\GitHub\\ChildrenDatabase\\ChildrenDatabase.Application\\ChildrenDatabase\\Queries\\GetAllChildrenDatabases\\GetAllChildrenDatabasesQuery.cs",
+              "RelativeToolTip": "ChildrenDatabase.Application\\ChildrenDatabase\\Queries\\GetAllChildrenDatabases\\GetAllChildrenDatabasesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:21:40.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
